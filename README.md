@@ -1,6 +1,7 @@
 # Projeto Conceitual de Banco de Dados
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-H-Martins)](https://github.com/anuraghazra/github-readme-stats)
 ## Modelo Ordem de Serviço
+[Modelo OS](https://github.com/Gustavo-H-Martins/Projeto-Conceitual-de-Banco-de-Dados/blob/main/1-ORDEM%20DE%20SERVI%C3%87O%20-%20Projeto%20Conceitual%20de%20Banco%20de%20Dados.png)
 ### Contexto:
     Dentro de uma empresa os clientes demandam ao helpdesk algumas ações.
     Essas ações são convertidas em ordem de serviço
@@ -12,9 +13,9 @@
     Cliente, Responsável, Pedido e Ordem de Serviço
 ### Relacionamentos
     Solicita, Analisa, Executa, Arquiva
-    [Modelo OS](https://github.com/Gustavo-H-Martins/Projeto-Conceitual-de-Banco-de-Dados/blob/main/1-ORDEM%20DE%20SERVI%C3%87O%20-%20Projeto%20Conceitual%20de%20Banco%20de%20Dados.png)
 
 ## Modelo Universidade
+[Modelo Universidade](https://github.com/Gustavo-H-Martins/Projeto-Conceitual-de-Banco-de-Dados/blob/main/2-UNIVERSIDADE%20-%20Projeto%20Conceitual%20de%20Banco%20de%20Dados.png)
 ### Contexto:
 Alunos
     A universidade possui diversos alunos que podem estar matriculados em mais de um curso (graduação);
@@ -32,10 +33,10 @@ Professores
     Alunos, Disciplina, Curso, Professor, Extensão, Pré Requisitos, Período, Departamento
     
 ### Relacionamentos:
-  Matrícula, Horas Complementares, Oferta de Disciplina, Requisitos das disciplinas
-  [Modelo Universidade](https://github.com/Gustavo-H-Martins/Projeto-Conceitual-de-Banco-de-Dados/blob/main/2-UNIVERSIDADE%20-%20Projeto%20Conceitual%20de%20Banco%20de%20Dados.png)
+    Matrícula, Horas Complementares, Oferta de Disciplina, Requisitos das disciplinas.
   
 ## Modelo E-commerce
+[Modelo E-commerce](https://github.com/Gustavo-H-Martins/Projeto-Conceitual-de-Banco-de-Dados/blob/main/3-ECOMMERCE%20-%20Projeto%20Conceitual%20de%20Banco%20de%20Dados.png)
 ### Contexto
 Produtos
     Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros);
@@ -60,4 +61,4 @@ Estoque
     Fornecedor, Vendedr terceiro, Estoque, Cliente (PF e PJ), Pedido, Pagamento, Formas de Pagamento.
 ### Relacionamentos:
     Histórico de Pagamento, Entrega, Itens de Pedido, Estoque de Produtos, Fornecimento, Venda Marketplace.
-    [Modelo E-commerce](https://github.com/Gustavo-H-Martins/Projeto-Conceitual-de-Banco-de-Dados/blob/main/3-ECOMMERCE%20-%20Projeto%20Conceitual%20de%20Banco%20de%20Dados.png)
+    
