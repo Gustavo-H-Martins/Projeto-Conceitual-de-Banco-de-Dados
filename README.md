@@ -1,5 +1,5 @@
 # Projeto Conceitual de Banco de Dados
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-H-Martins)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-H-Martins)](https://github.com/Gustavo-H-Martins)
 ## Modelo Ordem de Serviço
 [Modelo OS](https://github.com/Gustavo-H-Martins/Projeto-Conceitual-de-Banco-de-Dados/blob/main/1-ORDEM%20DE%20SERVI%C3%87O%20-%20Projeto%20Conceitual%20de%20Banco%20de%20Dados.png)
 ### Contexto:
