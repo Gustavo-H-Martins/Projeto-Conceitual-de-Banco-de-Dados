@@ -97,4 +97,4 @@ Gustavo Henrique Lopes Martins
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENCE.md](./LICENCE.md) para mais detalhes.
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENCE.md](../LICENCE.md) para mais detalhes.
